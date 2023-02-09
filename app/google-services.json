@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "270357888589",
+    "firebase_url": "https://gachbariya-madrasha-default-rtdb.firebaseio.com",
+    "project_id": "gachbariya-madrasha",
+    "storage_bucket": "gachbariya-madrasha.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270357888589:android:eca47d455a093052856604",
+        "android_client_info": {
+          "package_name": "com.manuni.adminmadrashaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270357888589-lt3mgdfhav2lb4k7pdoiu0q83vfet13n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL_PbJrzThFpGBwwPkX-Pm7jJUGOzW4go"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270357888589-lt3mgdfhav2lb4k7pdoiu0q83vfet13n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270357888589:android:e0d8c3c833db1713856604",
+        "android_client_info": {
+          "package_name": "com.manuni.dynamiccategoryspinner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270357888589-lt3mgdfhav2lb4k7pdoiu0q83vfet13n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL_PbJrzThFpGBwwPkX-Pm7jJUGOzW4go"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270357888589-lt3mgdfhav2lb4k7pdoiu0q83vfet13n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270357888589:android:2e1595f26dbe3ebd856604",
+        "android_client_info": {
+          "package_name": "com.manuni.mahmudmanuniusermadrasha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270357888589-lt3mgdfhav2lb4k7pdoiu0q83vfet13n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL_PbJrzThFpGBwwPkX-Pm7jJUGOzW4go"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270357888589-lt3mgdfhav2lb4k7pdoiu0q83vfet13n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270357888589:android:352264fc12407076856604",
+        "android_client_info": {
+          "package_name": "com.manuni.usermadrasha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270357888589-lt3mgdfhav2lb4k7pdoiu0q83vfet13n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL_PbJrzThFpGBwwPkX-Pm7jJUGOzW4go"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270357888589-lt3mgdfhav2lb4k7pdoiu0q83vfet13n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
